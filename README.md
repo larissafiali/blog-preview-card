@@ -38,6 +38,6 @@ Users should be able to:
 ### Links
 -Live Site URL : https://larissafiali.github.io/blog-preview-card/
 
-##Contact 
+## Contact 
 - LinkedIn: www.linkedin.com/in/larissa-fiali-3a1a25286
 
