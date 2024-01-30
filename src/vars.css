@@ -1,0 +1,7 @@
+:root{
+
+    --bg-span-title: hsl(47, 88%, 63%);
+    --bg-card: hsl(0, 0%, 100%);
+    --about-text-color: hsl(0, 0%, 50%);
+    --black-text-color: hsl(0, 0%, 7%)
+}

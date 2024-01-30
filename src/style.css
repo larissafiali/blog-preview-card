@@ -1,0 +1,71 @@
+html{
+    font-family:  'Figtree', sans-serif; ;
+}
+body{
+    background-color: var(--bg-span-title);
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    background-color: var(--bg-card);
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: first baseline;
+    border-radius: 20px;
+    box-shadow: 15px 10px  ;
+    border: solid 2px black;
+}
+
+.illustration img{
+    width: 320px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.description{
+    padding: 0px 15px;
+}
+
+.description .span{
+    background-color: var(--bg-span-title);
+    color: var(--black-text-color);
+    font-size: 16px;
+    font-weight: 800;
+    
+}
+
+.description h2:hover{
+    color: var(--bg-span-title);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.description .about{
+    color: var(--about-text-color);
+}
+
+
+
+.name{
+    display: flex;
+    align-items: center;
+    margin: 15px 0px;
+}
+
+.name img{
+    width: 35px;
+    padding-right: 8px;
+}
+
+.name span{
+    color: var(--black-text-color);
+    font-weight: 800;
+    font-size: 14px;
+}
+
+
