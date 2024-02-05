@@ -9,7 +9,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 ## Overview
 
